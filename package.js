@@ -1,6 +1,6 @@
 Package.describe({
-  summary: "Bootstrap Material Design, with Less files.",
-  version: "3.3.2",
+  summary: "Bootstrap Material Design, using Less.",
+  version: "0.3.0",
   git: "https://github.com/pfafman/meteor-bootstrap-material-design-less",
 });
 
