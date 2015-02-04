@@ -10,3 +10,8 @@ Not using atmosphere for it is easier to link in the import.less files as a pack
 ```
 
 Pull the less import files into your main.less file.
+
+```
+@import "packages/pfafman:bootstrap-material-design/lib/less/material-wfont.import.less";
+@import "packages/pfafman:bootstrap-material-design/lib/less/ripples.import.less";
+```
